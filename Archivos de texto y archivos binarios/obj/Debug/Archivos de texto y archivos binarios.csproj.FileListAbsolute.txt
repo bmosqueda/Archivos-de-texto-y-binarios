@@ -1,0 +1,10 @@
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\bin\Debug\Archivos de texto y archivos binarios.exe.config
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\bin\Debug\Archivos de texto y archivos binarios.exe
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\bin\Debug\Archivos de texto y archivos binarios.pdb
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\obj\Debug\Archivos de texto y archivos binarios.csprojResolveAssemblyReference.cache
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\obj\Debug\Archivos_de_texto_y_archivos_binarios.Form1.resources
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\obj\Debug\Archivos_de_texto_y_archivos_binarios.Properties.Resources.resources
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\obj\Debug\Archivos de texto y archivos binarios.csproj.GenerateResource.Cache
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\obj\Debug\Archivos de texto y archivos binarios.csproj.CoreCompileInputs.cache
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\obj\Debug\Archivos de texto y archivos binarios.exe
+c:\users\brand\source\repos\Archivos de texto y archivos binarios\Archivos de texto y archivos binarios\obj\Debug\Archivos de texto y archivos binarios.pdb
